@@ -1,0 +1,14 @@
+ 13:28:48 up 179 days, 22:34, 12 users,  load average: 0.01, 0.06, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+sdahlhau pts/1    lab223.labs.cs.k 11:48   32.00s  0.57s  0.03s sshd: sdahlhau [priv]
+sreed30  pts/2    lab217.labs.cs.k 11:49   24.00s  0.17s  0.17s -bash
+tmarthe2 pts/3    10.14.199.77     11:55   11:36   1.32s  0.18s -bash
+bxu3     pts/4    10.14.212.244    12:02   35:36   0.09s  0.09s -bash
+djorda21 pts/5    10.14.220.234    12:52    2:40   3.23s  3.06s emacs bigint.cpp
+bschwenk pts/6    10.14.202.156    12:40   17:12  11.76s  8.12s emacs test_add.cpp
+jgehrin4 pts/8    10.14.82.43      12:57    8:56   3.88s  3.80s emacs test_subscript.cpp
+mskeins  pts/9    lab210.labs.cs.k 12:53    0.00s  0.17s  0.01s w
+hmichaud pts/10   lab201.labs.cs.k 12:06   47:12   3.58s  0.02s sshd: hmichaud [priv]
+hpeyravi pts/11   cpe-174-104-212- 12:14    4:00   4.25s  0.05s sshd: hpeyravi [priv]
+mmandat2 pts/12   10.14.70.130     12:57    4:32   0.60s  0.50s nano test_subscript.cpp
+hpeyravi pts/13   cpe-174-104-212- 12:59   15:52   0.75s  0.70s vim index.html
